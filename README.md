@@ -10,6 +10,6 @@
 
 ## 安裝
 1. 下載或 clone 專案：
-   ```sh
+   ```
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
